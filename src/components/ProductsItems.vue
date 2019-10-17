@@ -38,7 +38,7 @@
         }
       },
       created() {
-      let uri = 'http://vuelaravelcrud.test/api/posts';
+      let uri = 'http://127.0.0.1:8000/api/productsItems';
       this.axios.get(uri).then(response => {
         this.item = response.data.data;
       });
