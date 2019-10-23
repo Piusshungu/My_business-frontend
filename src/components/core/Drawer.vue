@@ -95,12 +95,12 @@ export default {
       {
         to: '/table-list',
         icon: 'mdi-clipboard-outline',
-        text: 'Table List'
+        text: 'Manage Products'
       },
       {
         to: '/typography',
         icon: 'mdi-format-font',
-        text: 'Typography'
+        text: 'Orders'
       },
       {
         to: '/icons',
@@ -108,10 +108,15 @@ export default {
         text: 'Icons'
       },
       {
-        to: '/maps',
-        icon: 'mdi-map-marker',
-        text: 'Maps'
+        to: '/icons',
+        icon: 'mdi-account',
+        text: 'SignOut'
       },
+      // {
+      //   to: '/maps',
+      //   icon: 'mdi-map-marker',
+      //   text: 'Maps'
+      // },
       {
         to: '/notifications',
         icon: 'mdi-bell',

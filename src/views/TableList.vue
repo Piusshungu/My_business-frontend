@@ -13,10 +13,10 @@
       >
         <material-card
           color="green"
-          title="Simple Table"
-          text="Here is a subtitle for this table"
+          title="Products goes here"
+          text="This is Products list"
         >
-          <v-data-table
+          <!-- <v-data-table
             :headers="headers"
             :items="items"
             hide-actions
@@ -39,7 +39,7 @@
               <td>{{ item.city }}</td>
               <td class="text-xs-right">{{ item.salary }}</td>
             </template>
-          </v-data-table>
+          </v-data-table> -->
         </material-card>
       </v-flex>
       <v-flex
@@ -52,7 +52,7 @@
           title="Table on Plain Background"
           text="Here is a subtitle for this table"
         >
-          <v-data-table
+          <!-- <v-data-table
             :headers="headers"
             :items="items.slice(0, 7)"
             hide-actions
@@ -75,7 +75,7 @@
               <td>{{ item.city }}</td>
               <td class="text-xs-right">{{ item.salary }}</td>
             </template>
-          </v-data-table>
+          </v-data-table> -->
         </material-card>
       </v-flex>
     </v-layout>
