@@ -10,11 +10,11 @@
       <v-flex xs12>
         <material-card
           color="green"
-          title="Material Dashboard Heading"
-          text="Created using Roboto Font Family"
+          title="All Orders Received"
+          text="This is the List of all Orders"
         >
           <v-card-text>
-            <h2 class="font-weight-light mb-4">Typography</h2>
+            <h2 class="font-weight-light mb-4">Orders</h2>
 
             <!-- <v-container
               class="pa-0"
