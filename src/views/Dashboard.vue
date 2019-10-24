@@ -17,7 +17,7 @@
           type="Line"
         >
           <h4 class="title font-weight-light">Daily Sales</h4>
-          <p class="category d-inline-flex font-weight-light">
+          <!-- <p class="category d-inline-flex font-weight-light">
             <v-icon
               color="green"
               small
@@ -26,9 +26,9 @@
             </v-icon>
             <span class="green--text">55%</span>&nbsp;
             increase in today's sales
-          </p>
+          </p> -->
 
-          <template slot="actions">
+          <!-- <template slot="actions">
             <v-icon
               class="mr-2"
               small
@@ -36,7 +36,7 @@
               mdi-clock-outline
             </v-icon>
             <span class="caption grey--text font-weight-light">updated 4 minutes ago</span>
-          </template>
+          </template> -->
         </material-chart-card>
       </v-flex>
       <v-flex
@@ -51,7 +51,7 @@
           color="red"
           type="Bar"
         >
-          <h4 class="title font-weight-light">Email Subscription</h4>
+          <!-- <h4 class="title font-weight-light">Email Subscription</h4>
           <p class="category d-inline-flex font-weight-light">Last Campaign Performance</p>
 
           <template slot="actions">
@@ -62,7 +62,7 @@
               mdi-clock-outline
             </v-icon>
             <span class="caption grey--text font-weight-light">updated 10 minutes ago</span>
-          </template>
+          </template> -->
         </material-chart-card>
       </v-flex>
       <v-flex
@@ -90,7 +90,7 @@
           </template>
         </material-chart-card>
       </v-flex>
-      <v-flex
+      <!-- <v-flex
         sm6
         xs12
         md6
@@ -104,8 +104,8 @@
           sub-icon="mdi-calendar"
           sub-text="Last 24 Hours"
         />
-      </v-flex>
-      <v-flex
+      </v-flex> -->
+      <!-- <v-flex
         sm6
         xs12
         md6
@@ -122,8 +122,8 @@
           sub-text="Get More Space..."
           sub-text-color="text-primary"
         />
-      </v-flex>
-      <v-flex
+      </v-flex> -->
+      <!-- <v-flex
         sm6
         xs12
         md6
@@ -137,8 +137,8 @@
           sub-icon="mdi-tag"
           sub-text="Tracked from Github"
         />
-      </v-flex>
-      <v-flex
+      </v-flex> -->
+      <!-- <v-flex
         sm6
         xs12
         md6
@@ -152,8 +152,8 @@
           sub-icon="mdi-update"
           sub-text="Just Updated"
         />
-      </v-flex>
-      <v-flex
+      </v-flex> -->
+      <!-- <v-flex
         md12
         lg6
       >
@@ -188,7 +188,7 @@
             </template>
           </v-data-table>
         </material-card>
-      </v-flex>
+      </v-flex> -->
       <v-flex
         md12
         lg6

@@ -25,7 +25,7 @@
           </div>
 
           <v-card-text>
-            <v-layout
+            <!-- <v-layout
               row
               wrap>
               <v-flex
@@ -111,12 +111,12 @@
                   <strong>PRIMARY</strong> - This is a regular notification made with `color="purple"`
                 </material-notification>
               </v-flex>
-            </v-layout>
-            <div class="text-xs-center">
+            </v-layout> -->
+            <!-- <div class="text-xs-center">
               <h2 class="title font-weight-light mb-2">Notification Places</h2>
               <span class=" subheading font-weight-light grey--text">Click to view notifications</span>
-            </div>
-
+            </div> -->
+<!-- 
             <v-container grid-list-lg>
               <v-layout
                 justify-center
@@ -199,7 +199,7 @@
                   </v-btn>
                 </v-flex>
               </v-layout>
-            </v-container>
+            </v-container> -->
 
             <v-snackbar
               :color="color"
