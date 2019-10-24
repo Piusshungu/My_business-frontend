@@ -193,7 +193,7 @@
         md12
         lg6
       >
-        <material-card
+        <!-- <material-card
           class="card-tabs"
           color="green">
           <v-flex
@@ -353,7 +353,7 @@
               </v-list>
             </v-tab-item>
           </v-tabs-items>
-        </material-card>
+        </material-card> -->
       </v-flex>
     </v-layout>
   </v-container>
