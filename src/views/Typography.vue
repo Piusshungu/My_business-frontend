@@ -16,7 +16,7 @@
           <v-card-text>
             <h2 class="font-weight-light mb-4">Typography</h2>
 
-            <v-container
+            <!-- <v-container
               class="pa-0"
               grid-list-xl
               fluid
@@ -54,7 +54,7 @@
                   </component>
                 </v-flex>
               </v-layout>
-            </v-container>
+            </v-container> -->
           </v-card-text>
         </material-card>
       </v-flex>
