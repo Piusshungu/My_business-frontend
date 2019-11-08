@@ -63,7 +63,7 @@
             </v-icon>
             <span class="caption grey--text font-weight-light">updated 10 minutes ago</span>
           </template> -->
-        </material-chart-card>
+        <!-- </material-chart-card>
       </v-flex>
       <v-flex
         md12
@@ -88,7 +88,7 @@
             </v-icon>
             <span class="caption grey--text font-weight-light">campaign sent 26 minutes ago</span>
           </template>
-        </material-chart-card>
+        </material-chart-card> -->
       </v-flex>
       <!-- <v-flex
         sm6
@@ -437,36 +437,36 @@ export default {
           }]
         ]
       },
-      headers: [
-        {
-          sortable: false,
-          text: 'ID',
-          value: 'id'
-        },
-        {
-          sortable: false,
-          text: 'Name',
-          value: 'name'
-        },
-        {
-          sortable: false,
-          text: 'Salary',
-          value: 'salary',
-          align: 'right'
-        },
-        {
-          sortable: false,
-          text: 'Country',
-          value: 'country',
-          align: 'right'
-        },
-        {
-          sortable: false,
-          text: 'City',
-          value: 'city',
-          align: 'right'
-        }
-      ],
+      // headers: [
+      //   {
+      //     sortable: false,
+      //     text: 'ID',
+      //     value: 'id'
+      //   },
+      //   {
+      //     sortable: false,
+      //     text: 'Name',
+      //     value: 'name'
+      //   },
+      //   {
+      //     sortable: false,
+      //     text: 'Salary',
+      //     value: 'salary',
+      //     align: 'right'
+      //   },
+      //   {
+      //     sortable: false,
+      //     text: 'Country',
+      //     value: 'country',
+      //     align: 'right'
+      //   },
+      //   {
+      //     sortable: false,
+      //     text: 'City',
+      //     value: 'city',
+      //     align: 'right'
+      //   }
+      // ],
       // items: [
       //   {
       //     name: 'Dakota Rice',
