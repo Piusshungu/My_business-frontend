@@ -17,7 +17,7 @@
           type="Line"
         >
           <h4 class="title font-weight-light">Daily Sales</h4>
-          <!-- <p class="category d-inline-flex font-weight-light">
+          <p class="category d-inline-flex font-weight-light">
             <v-icon
               color="green"
               small
@@ -28,7 +28,7 @@
             increase in today's sales
           </p> -->
 
-          <!-- <template slot="actions">
+          <template slot="actions">
             <v-icon
               class="mr-2"
               small
@@ -36,7 +36,7 @@
               mdi-clock-outline
             </v-icon>
             <span class="caption grey--text font-weight-light">updated 4 minutes ago</span>
-          </template> -->
+          </template> 
         </material-chart-card>
       </v-flex>
       <v-flex
@@ -63,7 +63,7 @@
             </v-icon>
             <span class="caption grey--text font-weight-light">updated 10 minutes ago</span>
           </template> -->
-        <!-- </material-chart-card>
+        </material-chart-card>
       </v-flex>
       <v-flex
         md12
@@ -193,7 +193,7 @@
         md12
         lg6
       >
-        <!-- <material-card
+        <material-card
           class="card-tabs"
           color="green">
           <v-flex
@@ -353,7 +353,7 @@
               </v-list>
             </v-tab-item>
           </v-tabs-items>
-        </material-card> -->
+        </material-card> 
       </v-flex>
     </v-layout>
   </v-container>

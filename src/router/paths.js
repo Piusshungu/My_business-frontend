@@ -24,6 +24,11 @@ export default [
     view: 'Typography'
   },
   {
+    path: '/orders',
+    view: 'Orders'
+  },
+  
+  {
     path: '/icons',
     view: 'Icons'
   },
